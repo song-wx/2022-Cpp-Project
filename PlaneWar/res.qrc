@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic_res/image/background.png</file>
+        <file>pic_res/image/bullet_1.png</file>
+        <file>pic_res/image/bullet_2.png</file>
+        <file>pic_res/image/enemy_0.png</file>
+        <file>pic_res/image/enemy_0_e.png</file>
+        <file>pic_res/image/enemy_1.png</file>
+        <file>pic_res/image/enemy_1_e.png</file>
+        <file>pic_res/image/enemy_2.png</file>
+        <file>pic_res/image/enemy_2_e.png</file>
+        <file>pic_res/image/icon72x72.png</file>
+        <file>pic_res/image/pause.png</file>
+        <file>pic_res/image/plane_1.png</file>
+        <file>pic_res/image/plane_1_e.png</file>
+        <file>pic_res/image/prop_1.png</file>
+        <file>pic_res/image/quit.png</file>
+        <file>pic_res/image/restart.png</file>
+        <file>pic_res/image/resume.png</file>
+        <file>pic_res/image/start.png</file>
+        <file>pic_res/image/typeoftext.ttf</file>
+        <file>pic_res/image/baddf.ttf</file>
+        <file>pic_res/image/enemy0_down3.png</file>
+        <file>pic_res/image/enemy1_down1.png</file>
+        <file>pic_res/image/enemy1_hit.png</file>
+        <file>pic_res/image/enemy2_down1.png</file>
+        <file>pic_res/image/enemy2_down2.png</file>
+        <file>pic_res/image/enemy2_down3.png</file>
+        <file>pic_res/image/enemy2_hit.png</file>
+        <file>pic_res/image/gameover.png</file>
+        <file>pic_res/image/gameover2.png</file>
+        <file>pic_res/image/hero_blowup_n1.png</file>
+        <file>pic_res/image/bullet-3.gif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic_res/素材/按下游戏开始.png</file>
+        <file>pic_res/素材/按下游戏暂停.png</file>
+        <file>pic_res/素材/背景.png</file>
+        <file>pic_res/素材/道具类型_1.png</file>
+        <file>pic_res/素材/敌人0.png</file>
+        <file>pic_res/素材/敌人0_向下2.png</file>
+        <file>pic_res/素材/敌人1.png</file>
+        <file>pic_res/素材/敌人1_向下3.png</file>
+        <file>pic_res/素材/敌人2.png</file>
+        <file>pic_res/素材/敌人2_向下5.png</file>
+        <file>pic_res/素材/恢复.png</file>
+        <file>pic_res/素材/退出.png</file>
+        <file>pic_res/素材/项目符号1(bullet1)_.png</file>
+        <file>pic_res/素材/项目符号2(bullet2)_.png</file>
+        <file>pic_res/素材/英雄1(hero1)_.png</file>
+        <file>pic_res/素材/英雄爆破 n3(hero_blowup.png</file>
+        <file>pic_res/素材/重新启动 sel(restart_sel.png</file>
+        <file>pic_res/素材/icon72x72.png</file>
+    </qresource>
+</RCC>
